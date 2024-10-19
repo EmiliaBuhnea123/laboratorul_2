@@ -36,7 +36,6 @@ Aplicația are următoarele funcționlități:
 #### 2. Descrierea funcționalităților
 - __Vizualizarea listei de sarcini__: Membrii echipei pot vizualiza lista de sarcini, făcând click pe butonul "Vezi lista de sarcini" sau pe link-ul din meniu "Lista Sarcini".
 - __Adăugarea unei sarcini noi__: Membrii echipei pot accesa pagina pentru a crea o sarcină nouă.
-- __Editare și ștergere recenză__: Membrii echipei pot modifica sau elimina recenziile proprii.
 - __Navigarea folosind un meniu__: Membrii echipei pot folosi meniul pentru a naviga pe paginile dorite.
 - __Vizualizarea detaliilor despre o anumită sarcină__: Membrii echipei pot vizualiza detaliile unei sarcini accesând-o după un id.
 
