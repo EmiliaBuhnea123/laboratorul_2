@@ -70,8 +70,11 @@ Aceasta este interfața pentru pagina Lista Sarcini. Ea conține lista tuturor s
 __Exemplul 4: Pagina tasks/id__
 ![Afișarea unei anumite sarcini](screenshots/Screenshot%202024-10-19%20212445.png)
 Aceasta este interfața pentru pagina de afișare a unei sarcini anumite. Utilizatorul poate vedea detaliile sarcinii cu un anumit id și informați detaliate despre altă sarcină care poate fi vizualizată și pe pagina Home. 
+
 _Numărul sarcinii apare conform id-ului introdus de utilizator._
+
 _Codul sursă_
+
 **Fișier:** `resources/views/tasks/show.blade.php`
 ```html
 <h1 class="text-center text-cyan-600 text-4xl">Sarcina {{ $task['id'] }}</h1>
